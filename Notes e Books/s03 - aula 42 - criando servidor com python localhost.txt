@@ -1,0 +1,6 @@
+******		no terminal		******
+sudo python3 -m http.server --blind 127.0.0.1 80
+
+onde 127.0.0.1 pode ser substituido por outro ip
+
+e 80 é a porta 

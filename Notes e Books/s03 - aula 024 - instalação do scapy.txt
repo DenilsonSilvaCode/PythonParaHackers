@@ -1,0 +1,20 @@
+hacking com python 
+
+******* Scapy *******
+
+Pderoso "Packet tool" para forjar e manipular pacotes
+
+
+
+******* Instalação *******
+
+sudo pip3 install scapy-python3
+
+
+******* utilização *******
+
+from scapy.all import *
+
+
+
+
